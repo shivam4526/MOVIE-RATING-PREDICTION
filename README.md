@@ -1,5 +1,3 @@
-# MOVIE-RATING-PREDICTION
-Of course! Here’s a **clean, professional, and easy-to-read** sample `README.md` for a GitHub project on *movie rating prediction*:
 
 ---
 
